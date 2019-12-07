@@ -1,0 +1,20 @@
+span,a,b,i,strong,ul,li,ol,select,input,div,h1,h2,h3,h4,h5,h6,header,html,img,body,dl,dt,dd,table,tr,td,form,textarea,option,label,em,section,footer,p{ margin: 0; padding: 0; }
+ul,ol{ list-style:none; }
+a{ text-decoration:none; color:#000000; }
+a:hover{ color:#ff1111; }
+img{ border:0; vertical-align:top; }
+h3 {
+    display: block;
+    font-size: 20px;
+    font-family:"微雅软黑";
+    font-weight: bold;
+}
+p{
+	display:block;
+}
+dd {
+    display: block;
+}
+body{ font-size: 14px; font-family:"宋体"; background:url(../img/a.jpg) no-repeat 50% 0 #ffefc6; }
+.clearfix:before,.clearfix:after{ content:''; display:table; }
+.clearfix:after{ clear:both; }

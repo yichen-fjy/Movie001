@@ -1,0 +1,368 @@
+.layer{
+	width:980px;
+	margin:0 auto;
+}
+.header-bg{
+	width:100%;
+	height:106px;
+	background:#fff url(../img/e.png) repeat-x 0 0;
+}
+.free{
+	position: absolute;
+    left: 50%;
+    top: 60px;
+    width: 26px;
+    height: 16px;
+    margin-left: -323px;
+	background:url(../img/free.png) repeat-x 0 0;
+}
+.header-top{
+	height:69px;
+}
+.header-top a{
+	float:left;
+	height:69px;
+	width:150px;
+}
+.top-right{
+	float:right;
+	height:25px;
+	width:391px;
+	border:2px solid #e11d57;
+	border-radius:3px;
+	margin-top:19px;
+	background:url(../img/f.png) no-repeat 0 0;
+}
+.right-text{
+	border:0;
+	margin:5px 0 5px 25px;
+	height:14px;
+	width:285px;
+	line-height:14px;
+	font-size:14px;
+}
+.right-button{
+	border:0;
+	height:25px;
+	width:74px;
+	background:#e20a47;
+	font-size:16px;
+	color:#fff;
+}
+.header-bottom{
+	height:32px;
+}
+.h-bottom-left{
+	float:left;
+	width:787px;
+}
+.h-bottom-left a{
+	float:left;
+	height:32px;
+	padding-left: 14px;
+	padding-right: 14px;
+	line-height:32px;
+	font-weight: bolder;
+	font-size: 14px;
+	color:#ee004e;
+}
+.h-bottom-left a:hover{
+	background:#ee004e;
+	color:#fff;
+}
+.h-bottom-left :nth-child(1){
+	background:#ee004e;
+	color:#fff;
+}
+.h-bottom-right{
+	float:left;
+	width:193px;
+	margin:13px 0 7px;
+}
+.h-bottom-right a{
+	float:left;
+	height:12px;
+	padding-left: 2px;
+	padding-right: 2px;
+	line-height:12px;
+	font-weight: 600;
+	font-size: 12px;
+	color:#ee004e;
+}
+.h-bottom-right img{
+	float:left;
+	height:12px;
+	width:15px;
+}
+.header-top-input{
+	float:right;
+}
+.header-bottom{
+	height:37px;
+}
+.body-button{
+	height:47px;
+	padding:357px 0 0 567px;
+}
+.body-button-left{
+	float:left;
+	height:39px;
+	width:139px;
+	padding-left:10px;
+	background:url(../img/i.png) no-repeat 0 0;
+	line-height:39px;
+	color:#f3e5a6;
+	font-family: '微软雅黑';
+	font-size:23px;
+	font-weight: bold;
+}
+.body-button a:hover{
+	color:#f3e5a6;
+}
+.body-button-right{
+	float:left;
+	height:39px;
+	width:164px;
+	padding-left:10px;
+	background:url(../img/j.png) no-repeat 0 0;
+	line-height:39px;
+	color:#f3e5a6;
+	font-family: '微软雅黑';
+	font-size:23px;
+	font-weight: bold;
+}
+.introduce-first{
+	height:816px;
+	width:1920px;
+	margin:0 auto;
+	background:url(../img/b.png) no-repeat 1092px 0;
+}
+.first{
+	height:816px;
+	width:1920px;
+	margin:0 auto;
+	background:url(../img/k3.png) no-repeat 0 632px;
+	overflow: hidden;
+}
+.first-body{
+	position:absolute;
+	width:1062px;
+	height:777px;
+	margin-left:-530px;
+	top:510px;
+	left:50%;
+	background:url(../img/l.png) no-repeat 0 0px;
+}
+.first-center{
+	display: block;
+	margin:199px 0 0 324px;
+}
+.movie_left, .movie_right{
+	position: absolute;
+    width: 159px;
+    padding-left: 9px;
+    height: 202px;
+    background: url(../img/o.png) no-repeat;
+}
+.movie_01{
+	top: 112px;
+    left: 18px;
+    z-index: 3;
+}
+.movie_02{
+	top: 302px;
+    left: 88px;
+    z-index: 3;
+}
+.movie_03{
+	top: 479px;
+    left: 77px;
+    z-index: 3;
+}
+.movie_04{
+	top: 523px;
+    left: 316px;
+    z-index: 3;
+}
+.movie_left p, .movie_left dl, .movie_right p, .movie_right dl {
+    line-height: 21px;
+    width: 135px;
+    font-size:13px;
+    font-family:"微雅软黑";
+    font-weight: bold;
+}
+.movie_left h3, .movie_right h3 {
+    margin-top: 15px;
+    height: 26px;
+    line-height: 26px;
+    font-size: 20px;
+}
+.movie_left dt, .movie_right dt {
+    color: #b70000;
+}
+.movie_left a, .movie_right a {
+    display: block;
+    width: 68px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    background: #b19348;
+    color: #fff;
+    margin-top: 12px;
+    margin-left: 2px;
+    font-family:"微雅软黑";
+}
+.movie_02 a {
+    margin-top: 4px;
+}
+.movie_04 a {
+    margin-top: 5px;
+}
+.movie_right{
+	background: url(../img/p.png) no-repeat;
+	padding-left: 23px;
+}
+.movie_05 {
+    right: -5px;
+    top: 112px;
+}
+.movie_05 a{
+	margin-top: 4px;
+}
+.movie_06{
+	right: 10px;
+    top: 308px;
+}
+.movie_06 a{
+	margin-top: 4px;
+}
+.movie_07{
+	right: 112px;
+    top: 492px;
+}
+.movie_07 a{
+	margin-top: 4px;
+}
+.movie_right:hover , .movie_left:hover{
+	z-index:4;
+}
+.movieActor {
+    position: relative;
+    z-index: 99;
+    background: url(../img/q.png) no-repeat;
+    height: 352px;
+    left:2px;
+    margin-top: -23px;
+}
+.movieActor_left {
+    float: left;
+    position: relative;
+    width: 465px;
+    height: 327px;
+    margin: 11px 0 0 14px;
+    display: inline;
+    overflow: hidden;
+}
+.movieActor_right {
+    float: right;
+    margin: 10px 8px 0 0;
+    width: 480px;
+    height: auto;
+    display: inline;
+}
+.movieActor_right li {
+    float: left;
+    width: 156px;
+    height: 162px;
+    margin: 3px 4px 0 0;
+    overflow: hidden;
+}
+.movieActor_left p {
+    position: absolute;
+    width: 432px;
+    height: 76px;
+    left: 0;
+    bottom: -100%;
+    line-height: 20px;
+    padding: 11px 21px 0 12px;
+    font-size:13px;
+    font-family:"微雅软黑";
+    font-weight: bold;
+    color: #eabc70;
+    background: rgba(0,0,0,0.57);
+    transition: bottom 0.5s;
+}
+.img_to_scale:hover p{
+	bottom: 5px;
+}
+.img_to_scale:hover img {
+    transform: scale(1.1);
+}
+.img_to_scale img {
+    transition: transform 0.5s;
+}
+.movieCo{
+	margin-top:12px;
+	height:652px;
+	background: url(../img/b3.png) no-repeat 50% 239px;
+}
+.movieCo_left {
+    float: left;
+    width: 477px;
+    height: 544px;
+    margin-left:2px;
+    background: url(../img/b1.png) no-repeat;
+}
+.movieCo_right{
+	float: right;
+    width: 477px;
+    height: 544px;
+    background: url(../img/b2.png) no-repeat;
+    margin-right: 0px;
+    display: inline;
+}
+.movieCo_tit {
+    width: 210px;
+    height: 48px;
+    padding-left: 35px;
+    padding-top: 10px;
+    font-size:26px;
+    font-family:"微雅软黑";
+}
+.movieCo_tit a {
+	color:#fff;
+    display: block;
+    text-shadow: 4px 1px 12px #333;
+    color: #fff;   
+}
+.movieCo_list {
+    width: 449px;
+    height: auto;
+    padding-left: 28px;
+}
+.movieCo_list li {
+    float: left;
+    width: 128px;
+    height: 227px;
+    margin: 9px 18px 0 0;
+    display: inline;
+}
+.movieCo_list_text {
+    display: block;
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:"微雅软黑";
+}
+
+
+
+
+
+
+
+
+
